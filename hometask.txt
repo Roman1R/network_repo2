@@ -1,0 +1,2 @@
+идентичны
+5 коммитов в удаленном: init -> boots -> README added -> dots - > fix readme
